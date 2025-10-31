@@ -1,4 +1,4 @@
-# hassio-bluetti-bt
+# hassio-bluetti-bt srsgh42 fork
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![Validate with hassfest](https://github.com/srsgh42/hassio-bluetti-bt/actions/workflows/hassfest_validation.yml/badge.svg)](https://github.com/srsgh42/hassio-bluetti-bt/actions/workflows/hassfest_validation.yml)
 [![HACS Action](https://github.com/srsgh42/hassio-bluetti-bt/actions/workflows/HACS.yml/badge.svg)](https://github.com/srsgh42/hassio-bluetti-bt/actions/workflows/HACS.yml)
