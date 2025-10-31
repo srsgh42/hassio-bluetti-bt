@@ -76,12 +76,12 @@ class TestDeviceBuilder(unittest.TestCase):
         self.assertIsInstance(built, AC200L)
         self.assertEqual(built.address, bt_addr)
 
-    def test_build_ac200l(self):
+    def test_build_ac200pl(self):
         bt_addr = "aa:bb:cc:dd:ee:ff"
         bt_name = "AC200PL56786746478"
         built = build_device(bt_addr, bt_name)
 
-        self.assertIsInstance(built, AC200L)
+        self.assertIsInstance(built, AC200PL)
         self.assertEqual(built.address, bt_addr)
 
     def test_build_ac200m(self):
